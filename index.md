@@ -1,4 +1,4 @@
 <head>
-  <title>&#35;$(dud)</title>
+  <title>&#35;$</title>
 </head>
 This is a testing space
