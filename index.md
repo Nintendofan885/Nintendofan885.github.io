@@ -1,2 +1,4 @@
-This is a testing space 
-<title>&#35;$(dud)</title>
+<head>
+  <title>&#35;$(dud)</title>
+</head>
+This is a testing space
