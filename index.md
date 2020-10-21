@@ -1,4 +1,4 @@
 <head>
-  <title>&#35;</title>
+  <title>#</title>
 </head>
 This is a testing space
